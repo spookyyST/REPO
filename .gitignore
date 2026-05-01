@@ -1,0 +1,15 @@
+.DS_Store
+ai1wm-backups/
+upgrade/
+uploads/
+cache/
+*.log
+
+# Keep custom code in git, skip installed third-party plugins by default.
+plugins/
+themes/*
+!themes/svarka-blue/
+themes/svarka-blue/node_modules/
+themes/svarka-blue/.DS_Store
+themes/svarka-blue/assets/.DS_Store
+!mu-plugins/

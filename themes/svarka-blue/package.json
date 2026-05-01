@@ -1,0 +1,10 @@
+{
+  "name": "svarka-theme-mcp",
+  "version": "1.0.0",
+  "description": "MCP server для WordPress темы Svarka Blue",
+  "main": "mcp-server.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
