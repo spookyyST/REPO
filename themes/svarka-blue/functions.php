@@ -9,7 +9,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-define('SVARKA_BLUE_VERSION', '0.6.5');
+define('SVARKA_BLUE_VERSION', '0.6.6');
 
 function svarka_blue_asset_url($path) {
     return get_template_directory_uri() . '/' . ltrim((string) $path, '/');
